@@ -4,3 +4,5 @@ The projects I have done
 1. 数据库应用：一个简单的在线小说网站[https://github.com/Cutecodes/OnlineNovel]
 2. 计算机组成：
 3. 计算机网络：cs144 lab[https://github.com/Cutecodes/cs144]
+## AI
+## 其他
