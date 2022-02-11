@@ -5,4 +5,5 @@ The projects I have done
 2. 计算机组成：华中科技大学基于logsim的mips cpu lab[https://github.com/Cutecodes/mips-cpu]
 3. 计算机网络：cs144 lab[https://github.com/Cutecodes/cs144]
 ## AI
+1. 基于DCGAN的动漫头像生成[https://github.com/Cutecodes/anime_faces_gan]
 ## 其他
