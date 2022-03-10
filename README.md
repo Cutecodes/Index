@@ -6,4 +6,5 @@ The projects I have done
 3. 计算机网络：cs144 lab[https://github.com/Cutecodes/cs144]
 ## AI
 1. 基于DCGAN的动漫头像生成[https://github.com/Cutecodes/anime_faces_gan]
+2. 基于LSTM的古诗词生成模型[https://github.com/Cutecodes/poetry_generator]
 ## 其他
