@@ -12,4 +12,4 @@ The projects I have done
 ## 其他
 1. 计算方法实验[https://github.com/Cutecodes/computing-method]
 2. 智能控制大作业[https://github.com/Cutecodes/intelligent-control]
-3. 微机原理实验[]
+3. 微机原理实验[https://github.com/Cutecodes/Microcomputer-principle]
