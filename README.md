@@ -11,4 +11,5 @@ The projects I have done
 4. 基于CNN的手写文字/垃圾分类［https://github.com/Cutecodes/Handwritten-character-recognition］［https://github.com/Cutecodes/Refuse-Classification］
 ## 其他
 1. 计算方法实验[https://github.com/Cutecodes/computing-method]
-2. 智能控制实验
+2. 智能控制大作业[https://github.com/Cutecodes/intelligent-control]
+3. 微机原理实验[]
