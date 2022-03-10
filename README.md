@@ -8,5 +8,5 @@ The projects I have done
 1. 基于DCGAN的动漫头像生成[https://github.com/Cutecodes/anime_faces_gan]
 2. 基于LSTM的古诗词生成模型[https://github.com/Cutecodes/poetry_generator]
 3. 基于深度强化学习和蒙特卡洛树搜索的五子棋[https://github.com/Cutecodes/alpha_gomoku]
-4. 基于CNN的手写文字/垃圾分类［］［https://github.com/Cutecodes/Refuse-Classification］
+4. 基于CNN的手写文字/垃圾分类［https://github.com/Cutecodes/Handwritten-character-recognition］［https://github.com/Cutecodes/Refuse-Classification］
 ## 其他
