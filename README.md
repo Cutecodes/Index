@@ -9,6 +9,7 @@ The projects I have done
 2. 基于LSTM的古诗词生成模型[https://github.com/Cutecodes/poetry_generator]
 3. 基于深度强化学习和蒙特卡洛树搜索的五子棋[https://github.com/Cutecodes/alpha_gomoku]
 4. 基于CNN的手写文字/垃圾分类［https://github.com/Cutecodes/Handwritten-character-recognition］［https://github.com/Cutecodes/Refuse-Classification］
+5. 基于一维CNN和双头LSTM的心电信号分类[https://github.com/Cutecodes/ecg_classification]
 ## 其他
 1. 计算方法实验[https://github.com/Cutecodes/computing-method]
 2. 智能控制大作业[https://github.com/Cutecodes/intelligent-control]
